@@ -1,0 +1,30 @@
+# Credit report files
+credit_report_*
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyc
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Excel files
+*.xlsx
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
